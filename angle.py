@@ -3,7 +3,7 @@ import numpy as np
 import math
 import os
 
-df = pd.read_csv('/AdV2024_report/Book1.csv')
+df = pd.read_csv('home/AdV2024_report/Book1.csv')
 
 a = 10
 b = 11
